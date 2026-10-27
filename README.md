@@ -257,9 +257,4 @@ Response
 ## ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
-
 ---
-
-## 📄 License
-
-This project is intended for educational, research, and internal development purposes.
